@@ -59,7 +59,7 @@ ol {
   color: #4d5ae5;
 }
 .header-logo {
-  padding: 24px 0 24px;
+  padding: 24px 0;
   margin-right: 76px;
 }
 .header-logo .logo-part {
@@ -112,7 +112,7 @@ ol {
 
 .page-hero {
   background-color: #2e2f42;
-  padding: 180px 0 180px;
+  padding: 188px 0 188px;
 }
 .hero-title {
   font-weight: 700;
@@ -292,6 +292,7 @@ ol {
 }
 .footer-logo {
   display: inline-block;
+  margin-bottom: 16px;
 }
 .footer-logo .logo-part {
   color: #f4f4fd;
@@ -302,5 +303,4 @@ ol {
   letter-spacing: 0.02em;
   color: #f4f4fd;
   max-width: 264px;
-  margin-top: 16px;
 }
