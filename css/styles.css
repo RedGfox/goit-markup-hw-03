@@ -39,8 +39,8 @@ ol {
 .page-header {
   border-bottom: 1px solid #e7e9fc;
 }
-.container {
-}
+/* .container {
+} */
 .header-container {
   display: flex;
   align-items: center;
@@ -70,8 +70,8 @@ ol {
   align-items: center;
   gap: 40px;
 }
-.nav-item {
-}
+/* .nav-item {
+} */
 .nav-link {
   display: block;
   padding: 25px 0;
@@ -96,8 +96,8 @@ ol {
   align-items: center;
   gap: 40px;
 }
-.contacts-item {
-}
+/* .contacts-item {
+} */
 .contacts-link {
   display: block;
   padding: 24px 0;
