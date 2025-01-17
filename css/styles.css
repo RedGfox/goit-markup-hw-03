@@ -74,7 +74,7 @@ ol {
 } */
 .nav-link {
   display: block;
-  padding: 25px 0;
+  padding: 24px 0 24px;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
