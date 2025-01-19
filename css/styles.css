@@ -221,7 +221,7 @@ ol {
   background: #fff;
 }
 .team-card {
-  padding-top: 32px;
+  padding: 32px 0 32px;
 }
 .team-title {
   font-weight: 500;
